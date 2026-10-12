@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+.venv-standard/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
